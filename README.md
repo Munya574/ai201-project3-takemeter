@@ -2,6 +2,9 @@
 
 A fine-tuned text classifier (AI201 Project 3) that distinguishes **detailed** from **low-effort** questions in the r/sewing *Simple Questions* threads. This README is the final report; `planning.md` holds the design notes and decisions made before and during annotation.
 
+# DEMO Video Link
+https://www.loom.com/share/e4f047de6674423ab2b8d70d4d159997
+
 ## Community
 
 I chose **r/sewing**, specifically its recurring weekly *Simple Questions* threads. I sew myself (Brother XM2701), so I can read the discourse the way a regular would.
